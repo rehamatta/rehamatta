@@ -5,7 +5,7 @@
 
 - 🔭 I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently Studying **Computer Science**
 
 - 👨‍💻 I am a Problem Solver programmer at **Codeforces, Atcoder, Leetcode.**
 
