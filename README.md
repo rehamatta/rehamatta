@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Studying **Computer Science**
 
-- 👨‍💻 I am a Problem Solver programmer at **Codeforces, Atcoder, Leetcode.**
+- 👨‍💻 I am a Problem Solver at **Codeforces, Atcoder, Leetcode.**
 
 - 📫 How to reach me **rehamatta1000@gmail.com**
 
