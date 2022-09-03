@@ -15,10 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/reham-atta-605725203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Reham_Atta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="esraa_syam15" height="30" width="40" /></a>
-<a href="https://leetcode.com/Reham10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Esraa_Syam15" height="30" width="40" /></a>
-<a href="https://fb.com/torkijr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="torkijr" height="30" width="40" /></a>
-<a href="https://instagram.com/peter_torki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peter_torki" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Reham_Atta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Reham_Atta" height="30" width="40" /></a>
+<a href="https://leetcode.com/Reham10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Reham_Atta" height="30" width="40" /></a>
+<a href="https://www.facebook.com/reham.atta.391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Reham_Atta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/reham_atta10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Reham_Atta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
