@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/reham-atta-605725203](https://www.linkedin.com/in/reham-mohamed-605725203/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="30" width="40" /></a>
+<a href="[[https://www.linkedin.com/in/reham-atta-605725203](https://www.linkedin.com/in/rehamatta/)]([https://www.linkedin.com/in/reham-mohamed-605725203/](https://www.linkedin.com/in/rehamatta/))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Reham_Atta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Reham_Atta" height="30" width="40" /></a>
 <a href="https://leetcode.com/Reham10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Reham_Atta" height="30" width="40" /></a>
 <a href="https://www.facebook.com/reham.atta.391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Reham_Atta" height="30" width="40" /></a>
@@ -29,7 +29,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/X1JTdfD_78j-z6Fyw9dKT6yIbSMCLuBEQD_mDIVz2oc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9yZWFjdC1sb2dv/LTEucG5n" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="c" width="40" height="40"/> </a>
+   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/206/645/png-transparent-sass-logos-and-brands-line-filled-icon.png" alt="c" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="c" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://tse4.mm.bing.net/th?id=OIP.ap6Es9vcFtFUdRYL0V_oagHaHa&pid=Api&P=0&h=220" alt="c" width="40" height="40"/> </a>
+  
+<a href="https://angular.dev/overview" target="_blank" rel="noreferrer"> <img src="https://tse4.mm.bing.net/th?id=OIP.Ca8m7_pPKZlmP5bgC7UfCgHaH0&pid=Api&P=0&h=220" alt="c" width="40" height="40"/> </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://tse4.mm.bing.net/th?id=OIP.mZnBqMNHuBxctd-WdmTEwwHaHa&pid=Api&P=0&h=220" alt="c" width="40" height="40"/> </a>
+
+
 
 </p>
 
